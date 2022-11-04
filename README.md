@@ -1,4 +1,4 @@
-### <div align="center">I'm Bryan, Frontend Developer, with +2 experience in web development and languages like Javascript, Node.js and frameworks like React.js and Angular, lover of code.👨‍💻🚀</div>  
+### <div align="center">I'm Bryan, Software Developer, with +2 experience in web development and languages like Javascript, Node.js and frameworks like React.js and Angular, lover of code.👨‍💻🚀</div>  
   
 
 - 👨‍💻 I’m currently working on [UNIT](https://unit.com.do/)  
