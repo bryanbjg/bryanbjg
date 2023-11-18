@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">Passionate Software Engineer, my focus is on modernization and innovation, creating efficient digital solutions. I enjoy facing technical challenges, committed to excellence in every line of code. My vision goes beyond web development, seeking to transform projects through well-designed technologies to explore how we can take digital excellence to the next level.👨‍💻🚀
 </div>  
