@@ -4,9 +4,12 @@
   
 
 - 👨‍💻 I’m currently working on [UNIT](https://unit.com.do/)   
+
+
+- 👨‍💻 My freelance project [TECHSYNC SOFTWARE](https://www.techsyncsoft.com/)   
   
 
-- ❓ Ask me about anything related to Javascript and related technologies   
+- ❓ Ask me about anything related to Angular and related technologies   
   
 
 - ☕Fun fact: I love coffee.  
