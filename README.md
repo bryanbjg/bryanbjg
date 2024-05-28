@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to Angular and related technologies   
   
 
-- ☕Fun fact: I love coffee.  
+- ☕ Fun fact: I love coffee.  
   
 
 <br/>  
