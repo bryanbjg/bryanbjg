@@ -4,7 +4,7 @@
 - **👨‍💻 I’m currently working on [UNIT,S.A](https://unit.com.do/)**  
   
 
-- **👨‍💻 I’m currently working on [TechSync Software](https://unit.com.do/)**  
+- **👨‍💻 My personal project [TechSync Software](https://unit.com.do/)**  
   
 
 - ❓ Ask me about anything related to Angular and related technologies  
