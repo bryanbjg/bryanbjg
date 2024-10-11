@@ -9,11 +9,12 @@
 
 - ❓ Ask me about anything related to Angular and related technologies  
   
+- **👨‍💻 My personal project [Portfolio](https://bryanj-portfolio.vercel.app/)**  
 
 - ☕ Fun fact: I love coffee.  
   
 
-<br/>  
+<br/>
 
 
 ## My Skill Set  
